@@ -1,0 +1,150 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+header {
+   
+}
+
+.left {
+    position: relative;
+    display: inline-block;
+    width: 250px;
+    margin-left: 70px;
+}
+.img1 {
+    width: 100px;
+    margin-top: 20px;
+    display: inline-block;
+}
+.h1 {
+    display: inline-block;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 50%;
+    margin-left: 10px;
+}
+.right {
+    display: inline-block;
+    margin-left: 65%;
+    margin-top: 10px;
+}
+.right ul li {
+    list-style: none;
+}
+.right ul li a {
+    text-decoration: none;
+    color: black;
+
+}
+
+/* side bar */
+.main {
+    height: 650px;
+    position: relative;
+}
+.side-bar {
+    width: 300px;
+    height: 600px;
+    border: 2px solid black ;
+    position: absolute;
+    top: 10%;
+    margin-left: 70px;
+    background-color: #f3f3f3;
+    display: inline-block;
+}
+.sidebar1 {
+    width: 200px;
+    height: 120px;
+    border: 2px solid black;
+    margin-left: 50px;
+    margin-top: 40px;
+    background-color: #dfdfdf;
+}
+.sidebar1 h2 {
+    padding-left: 45px;
+    padding-top: 45px;
+}
+.sidebar2 {
+    width: 200px;
+    height: 80px;
+    border: 2px solid black;
+    margin-left: 50px;
+    margin-top: 40px;
+    background-color: #dfdfdf;
+}
+.sidebar2 h2 {
+    padding-left: 45px;
+    padding-top: 25px;
+}
+.sidebar3 {
+    width: 200px;
+    height: 80px;
+    border: 2px solid black;
+    margin-left: 50px;
+    margin-top: 40px;
+    background-color: #dfdfdf;
+}
+.sidebar3 h2 {
+    padding-left: 45px;
+    padding-top: 25px;
+}
+
+.titlepage {
+    width: 800px;
+    height: 350px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-left: 70px;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    background-color: #f3f3f3;
+}
+.titlepage h2 {
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.titlepage p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 45%;
+    left: 40%;
+}
+
+.titlepage2 {
+    width: 800px;
+    height: 200px;
+    background-color: #f3f3f3;
+    border: 2px solid black;
+    position: absolute;
+    top: 70%;
+    left: 35%;
+}
+
+.titlepage2 ul li {
+    list-style: none;
+    padding-left: 45%;
+    padding-top: 2px;
+    margin-top: 25px;
+}
+
+footer {
+    border: 2px solid black;
+    margin-top: 50px;
+    background-color: #f3f3f3;
+}
+.left2 {
+    width: 200px;
+    margin-left: 45%;
+}
+.left p {
+    padding-top: 10px;
+}
+.right2 {
+    margin-left: 46%;
+}
